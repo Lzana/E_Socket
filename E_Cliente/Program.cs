@@ -11,7 +11,7 @@ namespace Ejercicio1Cliente
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese servidor");
+            Console.WriteLine("Ingrese servidor...");
             string servidor = Console.ReadLine().Trim();
             int puerto;
             do
